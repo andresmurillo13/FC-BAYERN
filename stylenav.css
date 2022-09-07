@@ -9,10 +9,12 @@ html{
     font-size: 62.5%;
     
 }
-nav{
+.nav-header
+{
     background-color: red;
     min-height: 10px;
     display: flex;
+    
     
    
 }

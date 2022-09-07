@@ -1,5 +1,20 @@
-.footer
- {
-    background-color: red;
-    min-height: 60px;
+.nav-footer{
+    
+    height: 7rem;
+align-items: center;
+display: inline-flex
+    
+
+}
+.span-footer{
+    font-size: 2rem;
+    font-family: 'Courier New', Courier, monospace;
+    display: inline-block;
+    
+    
+}
+.footer{
+    background-color: aqua;
+   
+    text-align: center;
 }
