@@ -1,0 +1,80 @@
+
+.section-izq{
+    height: 60rem;
+    background-color:white;
+    padding-left: 3rem;
+    width: 25%;
+     
+}
+
+.contenedores{
+    display: inline-flex;
+    width: 100%;
+    
+}
+.card-1, .card-2, .card-3,.card-4 {
+    position: relative; 
+   
+}
+
+
+.card-img1{
+    width: 24rem;
+    height: 10rem;
+    border: 2px solid white;
+    border-radius: 8px;
+    margin-top: 3rem;
+    
+
+}
+.card-img2{
+    height: 5rem;
+    width: 6rem;
+    filter: brightness(1.1);
+    mix-blend-mode: multiply;
+    position: absolute;
+    top: 60%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+}
+.card-1 h1{
+    position: absolute;
+    top: 60%;
+    left: 27%;
+    transform: translate(-50%, -50%);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    color: white;
+
+}
+.card-2 h1{
+    position: absolute;
+    top: 60%;
+    left: 15%;
+    transform: translate(-50%, -50%);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    color: white;
+
+}
+.card-3 h1{
+    position: absolute;
+    top: 60%;
+    left: 27%;
+    transform: translate(-50%, -50%);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    color: white
+
+}
+.card-4 h1{
+    position: absolute;
+    top: 60%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    color: white
+
+}
+
